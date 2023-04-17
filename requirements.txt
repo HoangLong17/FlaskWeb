@@ -1,0 +1,10 @@
+flask
+sqlalchemy
+flask-sqlalchemy
+flask_migrate
+sqlalchemy-migrate
+mysqlclient
+flask-wtf
+email-validator
+flask-bcrypt
+flask-login
